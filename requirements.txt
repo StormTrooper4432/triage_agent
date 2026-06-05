@@ -1,0 +1,7 @@
+streamlit
+pandas
+pydantic
+openai
+anthropic
+python-dotenv
+google-genai

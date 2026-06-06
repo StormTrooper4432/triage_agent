@@ -55,7 +55,6 @@ streamlit run app.py
 
 The app will open at `http://localhost:8501`. Load the sample data from `sample-data/crm_export.csv` and the 14 inbound test emails in `emails/` to explore the full workflow without connecting live client data.
 
-> **Note:** Never commit your `.env` file. It is excluded from version control by default via `.env.template`.
 
 ---
 
